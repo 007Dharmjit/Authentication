@@ -79,10 +79,14 @@ Before you begin, ensure you have the following installed:
      ```bash
       npm start 
    Open your browser and navigate to http://localhost:5173. 
-   
+  
+---
+ 
 ## **🧮 Usage**
    1. Frontend Development: React application with hot module reloading for a seamless development experience.
    2. Backend Development: Express server with integrated MongoDB for dynamic and secure data management.
+
+---
 
 ## **Project Structure**
      ```bash
@@ -101,11 +105,13 @@ Before you begin, ensure you have the following installed:
       │   ├── server.js       # Main server file
       │   └── package.json    # Backend dependencies
       └── README.md
-
-
+      
+---
 
 ## **📜 License**
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
 
 **🧑‍💻 Author**
 Dharmjit Chauhan
