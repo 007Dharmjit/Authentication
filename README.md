@@ -85,21 +85,23 @@ Before you begin, ensure you have the following installed:
    2. Backend Development: Express server with integrated MongoDB for dynamic and secure data management.
 
 ## **Project Structure**
-   project-root
-├── frontend/
-│   ├── public/         # Static assets
-│   ├── src/
-│   │   ├── components/ # Reusable React components
-│   │   ├── pages/      # Route-specific pages
-│   │   ├── styles/     # Custom styling
-│   │   └── App.js      # Entry point
-│   └── package.json    # Frontend dependencies
-├── backend/
-│   ├── models/         # Database schemas
-│   ├── routes/         # API endpoints
-│   ├── server.js       # Main server file
-│   └── package.json    # Backend dependencies
-└── README.md
+     ```bash
+        project-root
+      ├── frontend/
+      │   ├── public/         # Static assets
+      │   ├── src/
+      │   │   ├── components/ # Reusable React components
+      │   │   ├── pages/      # Route-specific pages
+      │   │   ├── styles/     # Custom styling
+      │   │   └── App.js      # Entry point
+      │   └── package.json    # Frontend dependencies
+      ├── backend/
+      │   ├── models/         # Database schemas
+      │   ├── routes/         # API endpoints
+      │   ├── server.js       # Main server file
+      │   └── package.json    # Backend dependencies
+      └── README.md
+
 
 
 ## **📜 License**
