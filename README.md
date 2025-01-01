@@ -59,8 +59,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/007Dharmjit/Authentication.git
+   cd Authentication
 2. **Set Up the Frontend**
    ```bash
    cd frontend
