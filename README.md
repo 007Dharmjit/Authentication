@@ -12,9 +12,7 @@ A robust full-stack authentication system leveraging modern technologies. The pr
 4. [Installation and Setup](#installation-and-setup)  
 5. [Usage](#usage)  
 6. [Project Structure](#project-structure)  
-7. [Scripts](#scripts)  
-8. [Contributing](#contributing)  
-9. [License](#license)
+7. [License](#license)
 
 ---
 
@@ -63,3 +61,51 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone <repository-url>
    cd <repository-name>
+2. **Set Up the Frontend**
+   ```bash
+   cd frontend
+   npm install
+3. **Set Up the Backend**
+   ```bash
+   cd ../backend
+   npm install
+4.**Run the Application**
+  1. Start the Backend Server:
+      ```bash
+      npm start
+      
+  2.Start the Frontend:
+     
+     ```bash
+      npm start 
+   Open your browser and navigate to http://localhost:5173. 
+   
+##🧮 Usage
+   1. Frontend Development: React application with hot module reloading for a seamless development experience.
+   2. Backend Development: Express server with integrated MongoDB for dynamic and secure data management.
+
+##Project Structure
+   project-root
+├── frontend/
+│   ├── public/         # Static assets
+│   ├── src/
+│   │   ├── components/ # Reusable React components
+│   │   ├── pages/      # Route-specific pages
+│   │   ├── styles/     # Custom styling
+│   │   └── App.js      # Entry point
+│   └── package.json    # Frontend dependencies
+├── backend/
+│   ├── models/         # Database schemas
+│   ├── routes/         # API endpoints
+│   ├── server.js       # Main server file
+│   └── package.json    # Backend dependencies
+└── README.md
+
+
+##📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+🧑‍💻 Author
+Dharmjit Chauhan
+
+GitHub: 007Dharmjit
