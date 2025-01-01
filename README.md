@@ -80,11 +80,11 @@ Before you begin, ensure you have the following installed:
       npm start 
    Open your browser and navigate to http://localhost:5173. 
    
-##🧮 Usage
+## **🧮 Usage**
    1. Frontend Development: React application with hot module reloading for a seamless development experience.
    2. Backend Development: Express server with integrated MongoDB for dynamic and secure data management.
 
-##Project Structure
+## **Project Structure**
    project-root
 ├── frontend/
 │   ├── public/         # Static assets
@@ -102,10 +102,10 @@ Before you begin, ensure you have the following installed:
 └── README.md
 
 
-##📜 License
+## **📜 License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🧑‍💻 Author
+**🧑‍💻 Author**
 Dharmjit Chauhan
 
 GitHub: 007Dharmjit
